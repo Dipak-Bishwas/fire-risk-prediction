@@ -1,0 +1,21 @@
+[ 2024-10-14 15:20:00,204 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-14 15:20:00,214 ] 97 werkzeug - INFO -  * Debugger PIN: 134-680-151
+[ 2024-10-14 15:20:15,731 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 15:20:15] "GET / HTTP/1.1" 200 -
+[ 2024-10-14 15:20:15,775 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 15:20:15] "GET /static/css/style.css HTTP/1.1" 200 -
+[ 2024-10-14 15:20:15,954 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 15:20:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-10-14 15:20:26,742 ] 34 root - INFO - Dataframe Gathered
+[ 2024-10-14 15:20:26,895 ] 29 root - INFO - Exception occurred in prediction
+[ 2024-10-14 15:20:26,895 ] 70 root - ERROR - Error during prediction: Error occured in python script name [C:\ML project\Forest_Fire\src\pipelines\prediction_pipeline.py] line number [22] error message ["['Ws', 'FFMC', 'DMC', 'DC', 'ISI'] not in index"]
+[ 2024-10-14 15:20:26,895 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 15:20:26] "POST / HTTP/1.1" 200 -
+[ 2024-10-14 15:20:26,916 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 15:20:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2024-10-14 15:20:52,345 ] 34 root - INFO - Dataframe Gathered
+[ 2024-10-14 15:20:52,347 ] 29 root - INFO - Exception occurred in prediction
+[ 2024-10-14 15:20:52,348 ] 70 root - ERROR - Error during prediction: Error occured in python script name [C:\ML project\Forest_Fire\src\pipelines\prediction_pipeline.py] line number [22] error message ["['Ws', 'FFMC', 'DMC', 'DC', 'ISI'] not in index"]
+[ 2024-10-14 15:20:52,348 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 15:20:52] "POST / HTTP/1.1" 200 -
+[ 2024-10-14 15:20:52,365 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 15:20:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2024-10-14 15:21:04,371 ] 34 root - INFO - Dataframe Gathered
+[ 2024-10-14 15:21:04,372 ] 29 root - INFO - Exception occurred in prediction
+[ 2024-10-14 15:21:04,374 ] 70 root - ERROR - Error during prediction: Error occured in python script name [C:\ML project\Forest_Fire\src\pipelines\prediction_pipeline.py] line number [22] error message ["['Ws', 'FFMC', 'DMC', 'DC', 'ISI'] not in index"]
+[ 2024-10-14 15:21:04,374 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 15:21:04] "POST / HTTP/1.1" 200 -
+[ 2024-10-14 15:21:04,394 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 15:21:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2024-10-14 15:21:24,093 ] 97 werkzeug - INFO -  * Detected change in 'C:\\ML project\\Forest_Fire\\src\\pipelines\\__init__.py', reloading

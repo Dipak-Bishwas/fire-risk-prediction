@@ -1,0 +1,12 @@
+prefix=C:/ML project/Forest_Fire/env/Library
+exec_prefix=C:/ML project/Forest_Fire/env/Library
+libdir=C:/ML project/Forest_Fire/env/Library/lib
+includedir=C:/ML project/Forest_Fire/env/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: -lstdc++ 
+Requires.private: 
+Cflags: -I${includedir} 

@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: ForestFire
+Version: 0.0.1
+Author: Dipak Kumar
+Author-email: dipakbishwas08@gmail.com
+Requires-Dist: Flask
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn
+Requires-Dist: matplotlib

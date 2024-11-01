@@ -1,0 +1,16 @@
+[ 2024-11-01 13:24:44,091 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-11-01 13:24:44,096 ] 97 werkzeug - INFO -  * Debugger PIN: 169-312-347
+[ 2024-11-01 13:24:47,254 ] 97 werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 13:24:47] "GET / HTTP/1.1" 200 -
+[ 2024-11-01 13:24:47,474 ] 97 werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 13:24:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2024-11-01 13:26:05,934 ] 62 root - INFO - Dataframe gathered
+[ 2024-11-01 13:26:06,390 ] 97 werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 13:26:06] "POST / HTTP/1.1" 200 -
+[ 2024-11-01 13:26:06,405 ] 97 werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 13:26:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2024-11-01 13:26:08,329 ] 97 werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 13:26:08] "GET / HTTP/1.1" 200 -
+[ 2024-11-01 13:26:08,641 ] 97 werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 13:26:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2024-11-01 13:28:01,851 ] 97 werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 13:28:01] "GET / HTTP/1.1" 200 -
+[ 2024-11-01 13:28:01,865 ] 97 werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 13:28:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2024-11-01 13:28:41,819 ] 62 root - INFO - Dataframe gathered
+[ 2024-11-01 13:28:41,825 ] 97 werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 13:28:41] "POST / HTTP/1.1" 200 -
+[ 2024-11-01 13:28:41,840 ] 97 werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 13:28:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2024-11-01 13:28:46,806 ] 97 werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 13:28:46] "GET / HTTP/1.1" 200 -
+[ 2024-11-01 13:28:47,107 ] 97 werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 13:28:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -

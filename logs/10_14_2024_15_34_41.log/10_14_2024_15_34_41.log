@@ -1,0 +1,9 @@
+[ 2024-10-14 15:34:42,078 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-14 15:34:42,084 ] 97 werkzeug - INFO -  * Debugger PIN: 134-680-151
+[ 2024-10-14 15:34:45,090 ] 50 root - INFO - Dataframe Gathered
+[ 2024-10-14 15:34:45,097 ] 33 root - INFO - Dataframe for prediction:    Temperature    RH  Rain    Ws  Classes
+0         40.0  34.0  23.0  23.0        0
+[ 2024-10-14 15:34:45,177 ] 27 root - INFO - Exception occured in prediction
+[ 2024-10-14 15:34:45,177 ] 45 root - ERROR - Error during prediction: Error occured in python script name [C:\ML project\Forest_Fire\src\pipelines\prediction_pipeline.py] line number [20] error message ["['FFMC', 'DMC', 'DC', 'ISI'] not in index"]
+[ 2024-10-14 15:34:45,182 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 15:34:45] "POST / HTTP/1.1" 200 -
+[ 2024-10-14 15:34:45,203 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 15:34:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -

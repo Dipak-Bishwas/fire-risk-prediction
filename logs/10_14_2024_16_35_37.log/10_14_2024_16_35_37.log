@@ -1,0 +1,3 @@
+[ 2024-10-14 16:35:37,855 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-14 16:35:37,860 ] 97 werkzeug - INFO -  * Debugger PIN: 134-680-151
+[ 2024-10-14 16:35:51,386 ] 97 werkzeug - INFO -  * Detected change in 'C:\\ML project\\Forest_Fire\\application.py', reloading

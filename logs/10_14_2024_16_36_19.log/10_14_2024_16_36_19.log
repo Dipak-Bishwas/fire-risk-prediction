@@ -1,0 +1,12 @@
+[ 2024-10-14 16:36:20,155 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-14 16:36:20,159 ] 97 werkzeug - INFO -  * Debugger PIN: 134-680-151
+[ 2024-10-14 16:36:23,387 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 16:36:23] "GET / HTTP/1.1" 200 -
+[ 2024-10-14 16:36:23,647 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 16:36:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2024-10-14 16:36:40,748 ] 60 root - INFO - Dataframe gathered
+[ 2024-10-14 16:36:40,875 ] 28 root - INFO - Exception occurred in prediction
+[ 2024-10-14 16:36:40,991 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 16:36:40] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2024-10-14 16:36:41,014 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 16:36:41] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-10-14 16:36:41,014 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 16:36:41] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-10-14 16:36:41,365 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 16:36:41] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=SoxMOfXwgtEVXEj1h74T HTTP/1.1" 200 -
+[ 2024-10-14 16:36:41,629 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 16:36:41] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-10-14 16:37:56,843 ] 97 werkzeug - INFO -  * Detected change in 'C:\\ML project\\Forest_Fire\\src\\pipelines\\prediction_pipeline.py', reloading

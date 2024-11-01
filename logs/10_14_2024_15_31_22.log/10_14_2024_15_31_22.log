@@ -1,0 +1,12 @@
+[ 2024-10-14 15:31:23,153 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-14 15:31:23,157 ] 97 werkzeug - INFO -  * Debugger PIN: 134-680-151
+[ 2024-10-14 15:31:26,201 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 15:31:26] "GET / HTTP/1.1" 200 -
+[ 2024-10-14 15:31:26,452 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 15:31:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2024-10-14 15:31:36,553 ] 50 root - INFO - Dataframe Gathered
+[ 2024-10-14 15:31:36,565 ] 33 root - INFO - Input data for prediction:      RH  Temperature  Rain  WindSpeed  Classes
+0  34.0         40.0  23.0       23.0        1
+[ 2024-10-14 15:31:36,649 ] 27 root - INFO - Exception occured in prediction
+[ 2024-10-14 15:31:36,650 ] 45 root - ERROR - Error during prediction: Error occured in python script name [C:\ML project\Forest_Fire\src\pipelines\prediction_pipeline.py] line number [20] error message ["['Ws', 'FFMC', 'DMC', 'DC', 'ISI'] not in index"]
+[ 2024-10-14 15:31:36,651 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 15:31:36] "POST / HTTP/1.1" 200 -
+[ 2024-10-14 15:31:36,667 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 15:31:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2024-10-14 15:32:50,271 ] 97 werkzeug - INFO -  * Detected change in 'C:\\ML project\\Forest_Fire\\src\\pipelines\\prediction_pipeline.py', reloading

@@ -1,0 +1,10 @@
+[ 2024-10-14 15:21:43,033 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-14 15:21:43,036 ] 97 werkzeug - INFO -  * Debugger PIN: 134-680-151
+[ 2024-10-14 15:21:51,370 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 15:21:51] "GET / HTTP/1.1" 200 -
+[ 2024-10-14 15:21:51,404 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 15:21:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2024-10-14 15:21:59,934 ] 34 root - INFO - Dataframe Gathered
+[ 2024-10-14 15:22:00,027 ] 29 root - INFO - Exception occurred in prediction
+[ 2024-10-14 15:22:00,028 ] 70 root - ERROR - Error during prediction: Error occured in python script name [C:\ML project\Forest_Fire\src\pipelines\prediction_pipeline.py] line number [22] error message ["['Ws', 'FFMC', 'DMC', 'DC', 'ISI'] not in index"]
+[ 2024-10-14 15:22:00,028 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 15:22:00] "POST / HTTP/1.1" 200 -
+[ 2024-10-14 15:22:00,046 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Oct/2024 15:22:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2024-10-14 15:22:52,659 ] 97 werkzeug - INFO -  * Detected change in 'C:\\ML project\\Forest_Fire\\application.py', reloading
